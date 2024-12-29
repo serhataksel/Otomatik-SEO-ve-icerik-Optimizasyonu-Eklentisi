@@ -84,8 +84,8 @@ Bu proje GPL v2 lisansı altında lisanslanmıştır. Detaylar için [LICENSE](L
 **Serhat Aksel**
 
 - GitHub: [@serhataksel](https://github.com/serhataksel)
-- LinkedIn: [Serhat Aksel](https://linkedin.com/in/serhataksel)
-- Website: [serhataksel.com](https://serhataksel.com)
+- LinkedIn: [Serhat Aksel](https://linkedin.com/in/mserhataksel)
+- Website: [serhataksel.com](https://serhataksel.com.tr)
 
 ## 📬 İletişim
 
@@ -93,12 +93,11 @@ Sorularınız veya önerileriniz için:
 
 - Issue açabilirsiniz
 - Pull request gönderebilirsiniz
-- info@serhataksel.com adresine mail atabilirsiniz
+- info@serhataksel.com.tr adresine mail atabilirsiniz
 
-## 🌟 Özel Teşekkürler
+## 🌟 Bilgilendirme
 
-Bu projeye katkıda bulunan herkese teşekkürler!
-
+Bu Repo sadece basit halidir. Ücretli versiyon için İletişime geçiniz.
 ## 📅 Güncellemeler
 
 ### Version 1.0.0 (30 Aralık 2024)
